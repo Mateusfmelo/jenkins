@@ -1,0 +1,272 @@
+Started by user [8mha:////4BUK+1rSuwuJ6Tn9dAJif1cQD16RY+gfMn1upgnOxIB/AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyjEgYu/dLi1CL99OTiTACFNdRqvwAAAA==[0mGerencia e configuracoes de servicos para internet
+Obtained Jenkinsfile from git https://github.com/rhavymaia/acomidadobebe-landingpage.git
+[8mha:////4DAxxT9A8iK5jm4WKUXEKIDW4MGV7+HsS3LnUw45IYPPAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4K7enHBsLBWon/jZ4mIF5TFS7l5Tne2Szkf9wZbpLwPZAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4PFUtSwxH7W7vOTAxvjL0/A39mE4Tzln5yvq66FdXZjXAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/jenkins_home/workspace/gcsi_inicial
+[8mha:////4LCL8SmWEo+bwyhC3adyIkpFI+tH88e1vqCxbrYmohc5AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4MIz2T8H9oLSdl1FFsVmNM5ESyZBLwHI0/he45fkMiYjAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4CPnAeBaKKpDfTP1X75hLyNVimT+eAf9D8EwL8FDdklpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4PfFlNnFd2K1XBvIQvz1M3QY5XUq1pz/ePYNTl7rjKZnAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/gcsi_inicial/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/rhavymaia/acomidadobebe-landingpage.git # timeout=10
+Fetching upstream changes from https://github.com/rhavymaia/acomidadobebe-landingpage.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/rhavymaia/acomidadobebe-landingpage.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 979278765c9c591d142e5dcd934ef3ca03261b01 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 979278765c9c591d142e5dcd934ef3ca03261b01 # timeout=10
+Commit message: "Correção do erro de build em ambiente de CI."
+ > git rev-list --no-walk 979278765c9c591d142e5dcd934ef3ca03261b01 # timeout=10
+[8mha:////4BNZOSxsooCulKMo4Cq7Q2uOH3wEVC1Pzje4VOqSHm36AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4CCwFiusmlSRTXx48UwOJR1qlReUq/ZkphftkXe5KgagAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4KjdddkMpgiymgXN1VFJic5dsUdZg5ZfvXrsRjctZHEjAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4HdsKsahvgnGA4FxsSg2PSfbOhu2ZfIxcuPjogB2b4goAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4OB0PAWFM7U87+PS5OyPYUGadLMdsFqwjs3+3M+zErs4AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] isUnix
+[8mha:////4NiRZUr6P3ZhlIW0pYYFTlyRgz+UBpUexyrLb4bWB7W9AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUFSNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPyt/2UMIAAAA=[0m[Pipeline] withEnv
+[8mha:////4KtDpRlqlOP1VRuDz6R3c4yGrqlLzRAOTdTQsCh0AbkYAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] {
+[8mha:////4PohpAsZZlaPq7iKOqI9dmdTshu6ttrKzwbgu/8FcDhCAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN8W7Eii+AAAA[0m[Pipeline] sh
++ docker inspect -f . node:20.2.0-alpine3.17
+.
+[8mha:////4N0+r2K0sfL1rCBonqDbE+B6ouC5qldSTnLL0Sk3sxR9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQG9gN7HvgAAAA==[0m[Pipeline] }
+[8mha:////4FJr68XGFqMFSkTehsLLa5nh857rFKQ4++gWhRB96yr+AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiREGBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQG7xuaSvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4Cx3XAW2wsMS75cz2MgwRAcVaD8WZF690DnH2M6W7jttAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohU3ZAQE2uUhROEJoSk0f9tkpJOnIircQdaKjHhwbItWe/1hioGOFEwzGnsLMbWst6PZk4sU+hunjJzdGUtYSSvmdBZkNLntQpKGlYVJWw4bDW2nqJFk2DHnXzI2ks09SWFeTtyKK0a4AkFn8lJhvQtU4D9fVSR8Mf5C4CpT1A2zWKH5Vl9AAkvMTrCAAAA[0m[Pipeline] withDockerContainer
+Jenkins seems to be running inside container 042970e40ccbeec92c424667cc5ae4a762765410dc833487c19895605c8fc4cd
+$ docker run -t -d -u 1000:1000 -p 3000:3000 -w /var/jenkins_home/workspace/gcsi_inicial --volumes-from 042970e40ccbeec92c424667cc5ae4a762765410dc833487c19895605c8fc4cd -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** node:20.2.0-alpine3.17 cat
+$ docker top 48931eac7154114c641786b35e782b0ef78d5bfc8a5031c2c4269db1a3a65c00 -eo pid,comm
+[8mha:////4JRPjrh1ZnvUPjSRiLPgVdujP2Wvbj4wIXSyiF6qGOkMAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUbCDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASnCIIrCAAAA[0m[Pipeline] {
+[8mha:////4OxzoZ4w23ZnQLAY98H69znvcyedFFWCBUEmeFHSe5NcAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] stage
+[8mha:////4I8mXwDALPmjZAse9j2E2gh6EktYn8Q17O+48c7fivK9AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] { (Build)
+[8mha:////4IIcfZcsU88fpsKwKK37zAXd0i1LEIrLsqX6Qf3b4WIcAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJp+grPefqv0bH7uiub4AAAA=[0m[Pipeline] sh
++ npm install
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @react-aria/ssr@3.1.2
+npm WARN Found: react@18.1.0
+npm WARN node_modules/react
+npm WARN   react@"^18.1.0" from the root project
+npm WARN   24 more (@restart/context, @restart/hooks, @restart/ui, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^16.8.0 || ^17.0.0-rc.1" from @react-aria/ssr@3.1.2
+npm WARN node_modules/@restart/ui/node_modules/@react-aria/ssr
+npm WARN   @react-aria/ssr@"^3.0.1" from @restart/ui@1.2.0
+npm WARN   node_modules/@restart/ui
+npm WARN 
+npm WARN Conflicting peer dependency: react@17.0.2
+npm WARN node_modules/react
+npm WARN   peer react@"^16.8.0 || ^17.0.0-rc.1" from @react-aria/ssr@3.1.2
+npm WARN   node_modules/@restart/ui/node_modules/@react-aria/ssr
+npm WARN     @react-aria/ssr@"^3.0.1" from @restart/ui@1.2.0
+npm WARN     node_modules/@restart/ui
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: focus-trap-react@7.0.1
+npm WARN Found: react@18.1.0
+npm WARN node_modules/react
+npm WARN   react@"^18.1.0" from the root project
+npm WARN   24 more (@restart/context, @restart/hooks, @restart/ui, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^16.0.0" from focus-trap-react@7.0.1
+npm WARN node_modules/cdbreact/node_modules/focus-trap-react
+npm WARN   focus-trap-react@"^7.0.1" from cdbreact@1.5.1
+npm WARN   node_modules/cdbreact
+npm WARN 
+npm WARN Conflicting peer dependency: react@16.14.0
+npm WARN node_modules/react
+npm WARN   peer react@"^16.0.0" from focus-trap-react@7.0.1
+npm WARN   node_modules/cdbreact/node_modules/focus-trap-react
+npm WARN     focus-trap-react@"^7.0.1" from cdbreact@1.5.1
+npm WARN     node_modules/cdbreact
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: focus-trap-react@7.0.1
+npm WARN Found: react-dom@18.1.0
+npm WARN node_modules/react-dom
+npm WARN   react-dom@"^18.1.0" from the root project
+npm WARN   13 more (@restart/ui, @testing-library/react, cdbreact, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^16.0.0" from focus-trap-react@7.0.1
+npm WARN node_modules/cdbreact/node_modules/focus-trap-react
+npm WARN   focus-trap-react@"^7.0.1" from cdbreact@1.5.1
+npm WARN   node_modules/cdbreact
+npm WARN 
+npm WARN Conflicting peer dependency: react-dom@16.14.0
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^16.0.0" from focus-trap-react@7.0.1
+npm WARN   node_modules/cdbreact/node_modules/focus-trap-react
+npm WARN     focus-trap-react@"^7.0.1" from cdbreact@1.5.1
+npm WARN     node_modules/cdbreact
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-bootstrap-range-slider@1.2.2
+npm WARN Found: react@18.1.0
+npm WARN node_modules/react
+npm WARN   react@"^18.1.0" from the root project
+npm WARN   24 more (@restart/context, @restart/hooks, @restart/ui, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^16.8.0" from react-bootstrap-range-slider@1.2.2
+npm WARN node_modules/cdbreact/node_modules/react-bootstrap-range-slider
+npm WARN   react-bootstrap-range-slider@"^1.2.1" from cdbreact@1.5.1
+npm WARN   node_modules/cdbreact
+npm WARN 
+npm WARN Conflicting peer dependency: react@16.14.0
+npm WARN node_modules/react
+npm WARN   peer react@"^16.8.0" from react-bootstrap-range-slider@1.2.2
+npm WARN   node_modules/cdbreact/node_modules/react-bootstrap-range-slider
+npm WARN     react-bootstrap-range-slider@"^1.2.1" from cdbreact@1.5.1
+npm WARN     node_modules/cdbreact
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-bootstrap-range-slider@1.2.2
+npm WARN Found: react-dom@18.1.0
+npm WARN node_modules/react-dom
+npm WARN   react-dom@"^18.1.0" from the root project
+npm WARN   13 more (@restart/ui, @testing-library/react, cdbreact, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^16.8.0" from react-bootstrap-range-slider@1.2.2
+npm WARN node_modules/cdbreact/node_modules/react-bootstrap-range-slider
+npm WARN   react-bootstrap-range-slider@"^1.2.1" from cdbreact@1.5.1
+npm WARN   node_modules/cdbreact
+npm WARN 
+npm WARN Conflicting peer dependency: react-dom@16.14.0
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^16.8.0" from react-bootstrap-range-slider@1.2.2
+npm WARN   node_modules/cdbreact/node_modules/react-bootstrap-range-slider
+npm WARN     react-bootstrap-range-slider@"^1.2.1" from cdbreact@1.5.1
+npm WARN     node_modules/cdbreact
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-chartjs-2@2.11.2
+npm WARN Found: react@18.1.0
+npm WARN node_modules/react
+npm WARN   react@"^18.1.0" from the root project
+npm WARN   24 more (@restart/context, @restart/hooks, @restart/ui, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0" from react-chartjs-2@2.11.2
+npm WARN node_modules/cdbreact/node_modules/react-chartjs-2
+npm WARN   react-chartjs-2@"^2.10.0" from cdbreact@1.5.1
+npm WARN   node_modules/cdbreact
+npm WARN 
+npm WARN Conflicting peer dependency: react@17.0.2
+npm WARN node_modules/react
+npm WARN   peer react@"^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0" from react-chartjs-2@2.11.2
+npm WARN   node_modules/cdbreact/node_modules/react-chartjs-2
+npm WARN     react-chartjs-2@"^2.10.0" from cdbreact@1.5.1
+npm WARN     node_modules/cdbreact
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-chartjs-2@2.11.2
+npm WARN Found: react-dom@18.1.0
+npm WARN node_modules/react-dom
+npm WARN   react-dom@"^18.1.0" from the root project
+npm WARN   13 more (@restart/ui, @testing-library/react, cdbreact, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0" from react-chartjs-2@2.11.2
+npm WARN node_modules/cdbreact/node_modules/react-chartjs-2
+npm WARN   react-chartjs-2@"^2.10.0" from cdbreact@1.5.1
+npm WARN   node_modules/cdbreact
+npm WARN 
+npm WARN Conflicting peer dependency: react-dom@17.0.2
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0" from react-chartjs-2@2.11.2
+npm WARN   node_modules/cdbreact/node_modules/react-chartjs-2
+npm WARN     react-chartjs-2@"^2.10.0" from cdbreact@1.5.1
+npm WARN     node_modules/cdbreact
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: mini-create-react-context@0.4.1
+npm WARN Found: react@18.1.0
+npm WARN node_modules/react
+npm WARN   react@"^18.1.0" from the root project
+npm WARN   24 more (@restart/context, @restart/hooks, @restart/ui, ...)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0" from mini-create-react-context@0.4.1
+npm WARN node_modules/cdbreact/node_modules/react-router/node_modules/mini-create-react-context
+npm WARN   mini-create-react-context@"^0.4.0" from react-router@5.3.3
+npm WARN   node_modules/cdbreact/node_modules/react-router
+npm WARN 
+npm WARN Conflicting peer dependency: react@17.0.2
+npm WARN node_modules/react
+npm WARN   peer react@"^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0" from mini-create-react-context@0.4.1
+npm WARN   node_modules/cdbreact/node_modules/react-router/node_modules/mini-create-react-context
+npm WARN     mini-create-react-context@"^0.4.0" from react-router@5.3.3
+npm WARN     node_modules/cdbreact/node_modules/react-router
+npm WARN deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+npm WARN deprecated source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+
+added 1503 packages, and audited 1504 packages in 7m
+
+183 packages are looking for funding
+  run `npm fund` for details
+
+15 vulnerabilities (14 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[8mha:////4KqUC79GPzb5/o81+l//NwTAlSiENEWjRpkJ08WgO0PAAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDudt+ah/eXoq5oL4AAAA=[0m[Pipeline] sh
++ CI=false npm run build
+
+> acomidadobebe-landingpage@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  189.74 kB  build/static/js/main.ff802804.js
+  39.03 kB   build/static/css/main.0f979434.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  yarn global add serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+npm notice 
+npm notice New patch version of npm available! 9.6.6 -> 9.6.7
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.7>
+npm notice Run `npm install -g npm@9.6.7` to update!
+npm notice 
+[8mha:////4PlSNkY909d5n+I3JqOroK44qz6/si3P339SafyJttkzAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BmecueC+AAAA[0m[Pipeline] }
+[8mha:////4F3V5QN/f6j6kUgWouWXtWQTxTB7Exv/sU1ibZ141RmIAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCkKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN1R/4ly+AAAA[0m[Pipeline] // stage
+[8mha:////4LIc2E7zZVb/qqs1il7urBhL+1wTN2mReRUGDR4ERbsiAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKJAQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryt8+1PXwAneaHiL4AAAA=[0m[Pipeline] }
+$ docker stop --time=1 48931eac7154114c641786b35e782b0ef78d5bfc8a5031c2c4269db1a3a65c00
+$ docker rm -f --volumes 48931eac7154114c641786b35e782b0ef78d5bfc8a5031c2c4269db1a3a65c00
+[8mha:////4O/QVLaCApQCz6jqiJDyJO9Qt9vdIngma/jxRHlTgIDWAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaEBCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDu9rm2hw+uBdw0vgAAAA==[0m[Pipeline] // withDockerContainer
+[8mha:////4PLMfxHoBhkRgLz9jnsoOQT70g2OM139s/RvVAbcfqJNAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiUCEhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3h1x1/QHfD1a8vgAAAA==[0m[Pipeline] }
+[8mha:////4IYw7Dswyx7FdugCJDMKeE5/YgC/P/igVYvz6vcyN5w4AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICdAilorXc8AKTGOPEugu2g1PxIr7GH7CIRMUWq51t5vWGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYhQrk/5NptP+zsDQC+AAAA[0m[Pipeline] // withEnv
+[8mha:////4KorieVixHmRaC0J0yrOGPPQhKrp70+yG9dsxA4hY+vwAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBgg5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8BjoqNn70AAAA=[0m[Pipeline] }
+[8mha:////4NnNLze0EtCMHZOCJ9ZioX8/DJxpKIQjdhcGk/M1UOgqAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6LEMBon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk5V6QlR+dNok8vQAAAA==[0m[Pipeline] // node
+[8mha:////4Oq143ZOnubtivVOq6L5AI8GzCk2xHMVoLQcefJ9035GAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkOBon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk+1KQlR/bfC4MvQAAAA==[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

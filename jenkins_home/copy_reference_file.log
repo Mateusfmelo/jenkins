@@ -96,3 +96,7 @@ INSTALLED plugins/pipeline-model-extensions.jpi : 2.2133.ve46a_6113dfc3
 --- Copying files at Mon Jun  5 17:03:55 UTC 2023
 --- Copying files at Mon Jun  5 17:40:53 UTC 2023
 --- Copying files at Mon Jun  5 17:54:54 UTC 2023
+--- Copying files at Tue Jun  6 16:08:14 UTC 2023
+--- Copying files at Tue Jun  6 16:08:56 UTC 2023
+--- Copying files at Tue Jun  6 16:26:38 UTC 2023
+SKIPPED plugins/docker-workflow.jpi : Installed version (563.vd5d2e5c4007f) has been manually upgraded from initial version (521.v1a_a_dd2073b_2e)
